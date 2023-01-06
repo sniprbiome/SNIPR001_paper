@@ -1,0 +1,417 @@
+b3669.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3669.fa_mash_screen.tab
+b3670.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3670.fa_mash_screen.tab
+b3671.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3671.fa_mash_screen.tab
+b3672.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3672.fa_mash_screen.tab
+b3673.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3673.fa_mash_screen.tab
+b3674.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3674.fa_mash_screen.tab
+b3675.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3675.fa_mash_screen.tab
+b3676.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3676.fa_mash_screen.tab
+b3677.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3677.fa_mash_screen.tab
+b3678.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3678.fa_mash_screen.tab
+b3679.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3679.fa_mash_screen.tab
+b3680.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3680.fa_mash_screen.tab
+b3681.fa	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b3681.fa_mash_screen.tab
+b3682.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3682.fa_mash_screen.tab
+b3683.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3683.fa_mash_screen.tab
+b3684.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3684.fa_mash_screen.tab
+b3685.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3685.fa_mash_screen.tab
+b3686.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3686.fa_mash_screen.tab
+b3687.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3687.fa_mash_screen.tab
+b3688.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3688.fa_mash_screen.tab
+b3689.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3689.fa_mash_screen.tab
+b3690.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3690.fa_mash_screen.tab
+b3691.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3691.fa_mash_screen.tab
+b3692.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3692.fa_mash_screen.tab
+b3693.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3693.fa_mash_screen.tab
+b3694.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3694.fa_mash_screen.tab
+b3695.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3695.fa_mash_screen.tab
+b3696.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3696.fa_mash_screen.tab
+b3697.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3697.fa_mash_screen.tab
+b3698.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3698.fa_mash_screen.tab
+b3699.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3699.fa_mash_screen.tab
+b3700.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3700.fa_mash_screen.tab
+b3701.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3701.fa_mash_screen.tab
+b3702.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3702.fa_mash_screen.tab
+b3703.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3703.fa_mash_screen.tab
+b3704.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3704.fa_mash_screen.tab
+b3705.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3705.fa_mash_screen.tab
+b3706.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3706.fa_mash_screen.tab
+b3707.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3707.fa_mash_screen.tab
+b3708.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3708.fa_mash_screen.tab
+b3709.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3709.fa_mash_screen.tab
+b3710.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3710.fa_mash_screen.tab
+b3711.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3711.fa_mash_screen.tab
+b3712.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3712.fa_mash_screen.tab
+b3713.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3713.fa_mash_screen.tab
+b3714.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3714.fa_mash_screen.tab
+b3715.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3715.fa_mash_screen.tab
+b3716.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3716.fa_mash_screen.tab
+b3717.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3717.fa_mash_screen.tab
+b3718.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3718.fa_mash_screen.tab
+b3719.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3719.fa_mash_screen.tab
+b3720.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3720.fa_mash_screen.tab
+b3721.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3721.fa_mash_screen.tab
+b3722.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3722.fa_mash_screen.tab
+b3723.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3723.fa_mash_screen.tab
+b3724.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3724.fa_mash_screen.tab
+b3725.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3725.fa_mash_screen.tab
+b3726.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3726.fa_mash_screen.tab
+b3727.fa	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3727.fa_mash_screen.tab
+b3728.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3728.fa_mash_screen.tab
+b3729.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3729.fa_mash_screen.tab
+b3730.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3730.fa_mash_screen.tab
+b3731.fa	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'trpAgpC']	['-', '+', '-', '+']	['trpAgpC']	B2	b3731.fa_mash_screen.tab
+b3732.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3732.fa_mash_screen.tab
+b3733.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3733.fa_mash_screen.tab
+b3734.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3734.fa_mash_screen.tab
+b3735.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3735.fa_mash_screen.tab
+b3736.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3736.fa_mash_screen.tab
+b3737.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3737.fa_mash_screen.tab
+b3738.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3738.fa_mash_screen.tab
+b3739.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3739.fa_mash_screen.tab
+b3740.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3740.fa_mash_screen.tab
+b3741.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3741.fa_mash_screen.tab
+b3742.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2']	['-', '+', '+', '+']	[]	B2	b3742.fa_mash_screen.tab
+b3743.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3743.fa_mash_screen.tab
+b3744.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3744.fa_mash_screen.tab
+b3745.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3745.fa_mash_screen.tab
+b3746.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3746.fa_mash_screen.tab
+b3747.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3747.fa_mash_screen.tab
+b3748.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3748.fa_mash_screen.tab
+b3749.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3749.fa_mash_screen.tab
+b3750.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3750.fa_mash_screen.tab
+b3751.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3751.fa_mash_screen.tab
+b3752.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3752.fa_mash_screen.tab
+b3753.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'yjaA', 'arpA', 'trpAgpC']	['+', '+', '+', '-']	['trpAgpC']	E or clade I	b3753.fa_mash_screen.tab
+b3754.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3754.fa_mash_screen.tab
+b3755.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3755.fa_mash_screen.tab
+b3756.fa	['ybgD', 'trpA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3756.fa_mash_screen.tab
+b3757.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3757.fa_mash_screen.tab
+b3758.fa	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	b3758.fa_mash_screen.tab
+b3759.fa	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	b3759.fa_mash_screen.tab
+b3760.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3760.fa_mash_screen.tab
+b3761.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3761.fa_mash_screen.tab
+b3762.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3762.fa_mash_screen.tab
+b3763.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3763.fa_mash_screen.tab
+b3764.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3764.fa_mash_screen.tab
+b3765.fa	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b3765.fa_mash_screen.tab
+b3766.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3766.fa_mash_screen.tab
+b3767.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3767.fa_mash_screen.tab
+b3768.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3768.fa_mash_screen.tab
+b3769.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3769.fa_mash_screen.tab
+b3770.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3770.fa_mash_screen.tab
+b3771.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3771.fa_mash_screen.tab
+b3772.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3772.fa_mash_screen.tab
+b3773.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3773.fa_mash_screen.tab
+b3774.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3774.fa_mash_screen.tab
+b3775.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3775.fa_mash_screen.tab
+b3776.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3776.fa_mash_screen.tab
+b3777.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3777.fa_mash_screen.tab
+b3778.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3778.fa_mash_screen.tab
+b3779.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '-', '+', '-']	['ArpAgpE', 'trpAgpC']	C	b3779.fa_mash_screen.tab
+b3780.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3780.fa_mash_screen.tab
+b3781.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3781.fa_mash_screen.tab
+b3782.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3782.fa_mash_screen.tab
+b3783.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3783.fa_mash_screen.tab
+b3784.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3784.fa_mash_screen.tab
+b3785.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3785.fa_mash_screen.tab
+b3786.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '-', '+', '-']	['ArpAgpE', 'trpAgpC']	C	b3786.fa_mash_screen.tab
+b3787.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3787.fa_mash_screen.tab
+b3788.fa	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	b3788.fa_mash_screen.tab
+b3789.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3789.fa_mash_screen.tab
+b3790.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3790.fa_mash_screen.tab
+b3791.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3791.fa_mash_screen.tab
+b3792.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3792.fa_mash_screen.tab
+b3793.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3793.fa_mash_screen.tab
+b3794.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3794.fa_mash_screen.tab
+b3795.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3795.fa_mash_screen.tab
+b3796.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3796.fa_mash_screen.tab
+b3797.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3797.fa_mash_screen.tab
+b3798.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3798.fa_mash_screen.tab
+b3799.fa	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b3799.fa_mash_screen.tab
+b3800.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3800.fa_mash_screen.tab
+b3801.fa	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	b3801.fa_mash_screen.tab
+b3802.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3802.fa_mash_screen.tab
+b3803.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3803.fa_mash_screen.tab
+b3804.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3804.fa_mash_screen.tab
+b3805.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3805.fa_mash_screen.tab
+b3806.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3806.fa_mash_screen.tab
+b3807.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3807.fa_mash_screen.tab
+b3808.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3808.fa_mash_screen.tab
+b3809.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3809.fa_mash_screen.tab
+b3810.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3810.fa_mash_screen.tab
+b3811.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3811.fa_mash_screen.tab
+b3812.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3812.fa_mash_screen.tab
+b3813.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3813.fa_mash_screen.tab
+b3814.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '-', '+', '-']	['ArpAgpE', 'trpAgpC']	C	b3814.fa_mash_screen.tab
+b3815.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3815.fa_mash_screen.tab
+b3816.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3816.fa_mash_screen.tab
+b3817.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3817.fa_mash_screen.tab
+b3818.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3818.fa_mash_screen.tab
+b3819.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2']	['-', '+', '+', '+']	[]	B2	b3819.fa_mash_screen.tab
+b3820.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3820.fa_mash_screen.tab
+b3821.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3821.fa_mash_screen.tab
+b3822.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3822.fa_mash_screen.tab
+b3823.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2']	['-', '+', '+', '+']	[]	B2	b3823.fa_mash_screen.tab
+b3824.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3824.fa_mash_screen.tab
+b3825.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3825.fa_mash_screen.tab
+b3826.fa	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	b3826.fa_mash_screen.tab
+b3827.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3827.fa_mash_screen.tab
+b3828.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3828.fa_mash_screen.tab
+b3829.fa	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3829.fa_mash_screen.tab
+b3830.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3830.fa_mash_screen.tab
+b3831.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3831.fa_mash_screen.tab
+b3832.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3832.fa_mash_screen.tab
+b3833.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3833.fa_mash_screen.tab
+b3834.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3834.fa_mash_screen.tab
+b3835.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3835.fa_mash_screen.tab
+b3836.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3836.fa_mash_screen.tab
+b3837.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3837.fa_mash_screen.tab
+b3838.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3838.fa_mash_screen.tab
+b3839.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3839.fa_mash_screen.tab
+b3840.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3840.fa_mash_screen.tab
+b3841.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3841.fa_mash_screen.tab
+b3842.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3842.fa_mash_screen.tab
+b3843.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3843.fa_mash_screen.tab
+b3844.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3844.fa_mash_screen.tab
+b3845.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3845.fa_mash_screen.tab
+b3846.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3846.fa_mash_screen.tab
+b3847.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3847.fa_mash_screen.tab
+b3848.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3848.fa_mash_screen.tab
+b3849.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3849.fa_mash_screen.tab
+b3850.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3850.fa_mash_screen.tab
+b3851.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3851.fa_mash_screen.tab
+b3852.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3852.fa_mash_screen.tab
+b3853.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3853.fa_mash_screen.tab
+b3854.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	G	b3854.fa_mash_screen.tab
+b3855.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3855.fa_mash_screen.tab
+b3856.fa	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b3856.fa_mash_screen.tab
+b3857.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3857.fa_mash_screen.tab
+b3858.fa	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	b3858.fa_mash_screen.tab
+b3859.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3859.fa_mash_screen.tab
+b3860.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3860.fa_mash_screen.tab
+b3861.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3861.fa_mash_screen.tab
+b3862.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3862.fa_mash_screen.tab
+b3863.fa	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b3863.fa_mash_screen.tab
+b3864.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3864.fa_mash_screen.tab
+b3865.fa	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	b3865.fa_mash_screen.tab
+b3866.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3866.fa_mash_screen.tab
+b3867.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3867.fa_mash_screen.tab
+b3868.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3868.fa_mash_screen.tab
+b3869.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '-', '+', '-']	['ArpAgpE', 'trpAgpC']	C	b3869.fa_mash_screen.tab
+b3870.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3870.fa_mash_screen.tab
+b3871.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3871.fa_mash_screen.tab
+b3872.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3872.fa_mash_screen.tab
+b3873.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3873.fa_mash_screen.tab
+b3874.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3874.fa_mash_screen.tab
+b3875.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3875.fa_mash_screen.tab
+b3876.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3876.fa_mash_screen.tab
+b3877.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3877.fa_mash_screen.tab
+b3878.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3878.fa_mash_screen.tab
+b3879.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3879.fa_mash_screen.tab
+b3880.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3880.fa_mash_screen.tab
+b3881.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3881.fa_mash_screen.tab
+b3882.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3882.fa_mash_screen.tab
+b3883.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3883.fa_mash_screen.tab
+b3884.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3884.fa_mash_screen.tab
+b3885.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3885.fa_mash_screen.tab
+b3886.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3886.fa_mash_screen.tab
+b3887.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3887.fa_mash_screen.tab
+b3888.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3888.fa_mash_screen.tab
+b3889.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3889.fa_mash_screen.tab
+b3890.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3890.fa_mash_screen.tab
+b3891.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3891.fa_mash_screen.tab
+b3892.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3892.fa_mash_screen.tab
+b3893.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3893.fa_mash_screen.tab
+b3894.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3894.fa_mash_screen.tab
+b3895.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3895.fa_mash_screen.tab
+b3896.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3896.fa_mash_screen.tab
+b3897.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3897.fa_mash_screen.tab
+b3898.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3898.fa_mash_screen.tab
+b3899.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3899.fa_mash_screen.tab
+b3900.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3900.fa_mash_screen.tab
+b3901.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3901.fa_mash_screen.tab
+b3902.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3902.fa_mash_screen.tab
+b3903.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3903.fa_mash_screen.tab
+b3904.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3904.fa_mash_screen.tab
+b3905.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3905.fa_mash_screen.tab
+b3906.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3906.fa_mash_screen.tab
+b3907.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3907.fa_mash_screen.tab
+b3908.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3908.fa_mash_screen.tab
+b3909.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	G	b3909.fa_mash_screen.tab
+b3910.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3910.fa_mash_screen.tab
+b3911.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3911.fa_mash_screen.tab
+b3912.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3912.fa_mash_screen.tab
+b3913.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3913.fa_mash_screen.tab
+b3914.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3914.fa_mash_screen.tab
+b3915.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3915.fa_mash_screen.tab
+b3916.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3916.fa_mash_screen.tab
+b3917.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3917.fa_mash_screen.tab
+b3918.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3918.fa_mash_screen.tab
+b3919.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3919.fa_mash_screen.tab
+b3920.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3920.fa_mash_screen.tab
+b3921.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b3921.fa_mash_screen.tab
+b3922.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3922.fa_mash_screen.tab
+b3923.fa	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	b3923.fa_mash_screen.tab
+b3924.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3924.fa_mash_screen.tab
+b3925.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3925.fa_mash_screen.tab
+b3926.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3926.fa_mash_screen.tab
+b3927.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3927.fa_mash_screen.tab
+b3928.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3928.fa_mash_screen.tab
+b3929.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3929.fa_mash_screen.tab
+b3930.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3930.fa_mash_screen.tab
+b3931.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3931.fa_mash_screen.tab
+b3932.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b3932.fa_mash_screen.tab
+b3933.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3933.fa_mash_screen.tab
+b3934.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3934.fa_mash_screen.tab
+b3935.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3935.fa_mash_screen.tab
+b3936.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3936.fa_mash_screen.tab
+b3937.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3937.fa_mash_screen.tab
+b3938.fa	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'trpAgpC']	['-', '+', '-', '+']	['trpAgpC']	B2	b3938.fa_mash_screen.tab
+b3939.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3939.fa_mash_screen.tab
+b3940.fa	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3940.fa_mash_screen.tab
+b3941.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3941.fa_mash_screen.tab
+b3942.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3942.fa_mash_screen.tab
+b3943.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3943.fa_mash_screen.tab
+b3944.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b3944.fa_mash_screen.tab
+b3945.fa	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA']	['+', '+', '-', '+']	[]	D	b3945.fa_mash_screen.tab
+b3946.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3946.fa_mash_screen.tab
+b3947.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3947.fa_mash_screen.tab
+b3948.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b3948.fa_mash_screen.tab
+b3949.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3949.fa_mash_screen.tab
+b3950.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3950.fa_mash_screen.tab
+b3951.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3951.fa_mash_screen.tab
+b3952.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3952.fa_mash_screen.tab
+b3953.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3953.fa_mash_screen.tab
+b3954.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3954.fa_mash_screen.tab
+b3955.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3955.fa_mash_screen.tab
+b3956.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3956.fa_mash_screen.tab
+b3957.fa	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	b3957.fa_mash_screen.tab
+b3958.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3958.fa_mash_screen.tab
+b3959.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3959.fa_mash_screen.tab
+b3960.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3960.fa_mash_screen.tab
+b3961.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3961.fa_mash_screen.tab
+b3962.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3962.fa_mash_screen.tab
+b3963.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3963.fa_mash_screen.tab
+b3964.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3964.fa_mash_screen.tab
+b3965.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3965.fa_mash_screen.tab
+b3966.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3966.fa_mash_screen.tab
+b3967.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3967.fa_mash_screen.tab
+b3968.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3968.fa_mash_screen.tab
+b3969.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3969.fa_mash_screen.tab
+b3970.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3970.fa_mash_screen.tab
+b3971.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3971.fa_mash_screen.tab
+b3972.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b3972.fa_mash_screen.tab
+b3973.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3973.fa_mash_screen.tab
+b3974.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3974.fa_mash_screen.tab
+b3975.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3975.fa_mash_screen.tab
+b3976.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3976.fa_mash_screen.tab
+b3977.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b3977.fa_mash_screen.tab
+b3978.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3978.fa_mash_screen.tab
+b3979.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3979.fa_mash_screen.tab
+b3980.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3980.fa_mash_screen.tab
+b3981.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3981.fa_mash_screen.tab
+b3982.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3982.fa_mash_screen.tab
+b3983.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b3983.fa_mash_screen.tab
+b3984.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3984.fa_mash_screen.tab
+b3985.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3985.fa_mash_screen.tab
+b3986.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2']	['-', '+', '+', '+']	[]	B2	b3986.fa_mash_screen.tab
+b3987.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3987.fa_mash_screen.tab
+b3988.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3988.fa_mash_screen.tab
+b3989.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3989.fa_mash_screen.tab
+b3990.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3990.fa_mash_screen.tab
+b3991.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'ArpAgpE']	['+', '-', '-', '+']	['ArpAgpE']	B1	b3991.fa_mash_screen.tab
+b3992.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3992.fa_mash_screen.tab
+b3993.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3993.fa_mash_screen.tab
+b3994.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b3994.fa_mash_screen.tab
+b3995.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3995.fa_mash_screen.tab
+b3996.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3996.fa_mash_screen.tab
+b3997.fa	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b3997.fa_mash_screen.tab
+b3998.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3998.fa_mash_screen.tab
+b3999.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b3999.fa_mash_screen.tab
+b4000.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4000.fa_mash_screen.tab
+b4001.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4001.fa_mash_screen.tab
+b4002.fa	['trpA', 'trpBA', 'chuA', 'trpAgpC']	['-', '+', '-', '-']	['trpAgpC']	F	b4002.fa_mash_screen.tab
+b4003.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4003.fa_mash_screen.tab
+b4004.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4004.fa_mash_screen.tab
+b4005.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4005.fa_mash_screen.tab
+b4006.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4006.fa_mash_screen.tab
+b4007.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4007.fa_mash_screen.tab
+b4008.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4008.fa_mash_screen.tab
+b4009.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4009.fa_mash_screen.tab
+b4010.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4010.fa_mash_screen.tab
+b4011.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4011.fa_mash_screen.tab
+b4012.fa	['trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	b4012.fa_mash_screen.tab
+b4013.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4013.fa_mash_screen.tab
+b4014.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b4014.fa_mash_screen.tab
+b4015.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4015.fa_mash_screen.tab
+b4016.fa	['trpBA', 'chuA', 'yjaA', 'trpAgpC']	['-', '+', '+', '-']	['trpAgpC']	B2	b4016.fa_mash_screen.tab
+b4017.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4017.fa_mash_screen.tab
+b4018.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4018.fa_mash_screen.tab
+b4019.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4019.fa_mash_screen.tab
+b4020.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4020.fa_mash_screen.tab
+b4021.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4021.fa_mash_screen.tab
+b4022.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4022.fa_mash_screen.tab
+b4023.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4023.fa_mash_screen.tab
+b4024.fa	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4024.fa_mash_screen.tab
+b4025.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4025.fa_mash_screen.tab
+b4026.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4026.fa_mash_screen.tab
+b4027.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4027.fa_mash_screen.tab
+b4028.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4028.fa_mash_screen.tab
+b4029.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b4029.fa_mash_screen.tab
+b4030.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4030.fa_mash_screen.tab
+b4031.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4031.fa_mash_screen.tab
+b4032.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	b4032.fa_mash_screen.tab
+b4033.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4033.fa_mash_screen.tab
+b4034.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4034.fa_mash_screen.tab
+b4035.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4035.fa_mash_screen.tab
+b4036.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4036.fa_mash_screen.tab
+b4037.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4037.fa_mash_screen.tab
+b4038.fa	['trpA', 'trpBA', 'chuIII']	['-', '-', '-', '-']	['chuIII']	Clade III	b4038.fa_mash_screen.tab
+b4039.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4039.fa_mash_screen.tab
+b4040.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4040.fa_mash_screen.tab
+b4041.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4041.fa_mash_screen.tab
+b4042.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4042.fa_mash_screen.tab
+b4043.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '-', '+', '-']	['ArpAgpE', 'trpAgpC']	C	b4043.fa_mash_screen.tab
+b4044.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4044.fa_mash_screen.tab
+b4045.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4045.fa_mash_screen.tab
+b4046.fa	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4046.fa_mash_screen.tab
+b4047.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4047.fa_mash_screen.tab
+b4048.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4048.fa_mash_screen.tab
+b4049.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4049.fa_mash_screen.tab
+b4050.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4050.fa_mash_screen.tab
+b4074.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4074.fa_mash_screen.tab
+b4075.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4075.fa_mash_screen.tab
+b4076.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4076.fa_mash_screen.tab
+b4077.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b4077.fa_mash_screen.tab
+b4078.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4078.fa_mash_screen.tab
+b4079.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4079.fa_mash_screen.tab
+b4080.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b4080.fa_mash_screen.tab
+b4081.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4081.fa_mash_screen.tab
+b4082.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4082.fa_mash_screen.tab
+b4083.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4083.fa_mash_screen.tab
+b4084.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4084.fa_mash_screen.tab
+b4085.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4085.fa_mash_screen.tab
+b4086.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4086.fa_mash_screen.tab
+b4087.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4087.fa_mash_screen.tab
+b4088.fa	['trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'ArpAgpE']	['+', '+', '-', '+']	['ArpAgpE']	E	b4088.fa_mash_screen.tab
+b4089.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4089.fa_mash_screen.tab
+b4090.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4090.fa_mash_screen.tab
+b4091.fa	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4091.fa_mash_screen.tab
+b4092.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b4092.fa_mash_screen.tab
+b4093.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4093.fa_mash_screen.tab
+b4094.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b4094.fa_mash_screen.tab
+b4095.fa	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	b4095.fa_mash_screen.tab
+b4096.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4096.fa_mash_screen.tab
+b4097.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4097.fa_mash_screen.tab
+b4098.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4098.fa_mash_screen.tab
+b4099.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	b4099.fa_mash_screen.tab
+b4100.fa	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA', 'trpAgpC']	['+', '-', '+', '-']	['trpAgpC']	C	b4100.fa_mash_screen.tab
+b4101.fa	['trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4101.fa_mash_screen.tab
+b4102.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4102.fa_mash_screen.tab
+b4103.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4103.fa_mash_screen.tab
+b4104.fa	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	b4104.fa_mash_screen.tab
+b4105.fa	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	b4105.fa_mash_screen.tab
+b4106.fa	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	b4106.fa_mash_screen.tab
+b4107.fa	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	b4107.fa_mash_screen.tab
+b4108.fa	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	b4108.fa_mash_screen.tab
