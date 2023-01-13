@@ -37,15 +37,6 @@ script_folder <- "your_directory_here/script/"
 summary_stats_folder <- "your_directory_here/summary_stats/"
 
 
-
-
-fig_folder <- "/Users/aoesniprbiome.com/Library/CloudStorage/OneDrive-SniprBiome/projects/SNIPR001 paper/paper_resub_clean/figure_folder/"
-data_folder <- "/Users/aoesniprbiome.com/Library/CloudStorage/OneDrive-SniprBiome/projects/SNIPR001 paper/paper_resub_clean/data_folder/"
-art_folder <- "/Users/aoesniprbiome.com/Library/CloudStorage/OneDrive-SniprBiome/projects/SNIPR001 paper/paper_resub_clean/art_assets/"
-script_folder <- "/Users/aoesniprbiome.com/Library/CloudStorage/OneDrive-SniprBiome/projects/SNIPR001 paper/paper_resub_clean/script_folder/"
-summary_stats_folder <- "/Users/aoesniprbiome.com/Library/CloudStorage/OneDrive-SniprBiome/projects/SNIPR001 paper/paper_resub_clean/summary_stat_folder/"
-
-
 #we define some redcurrant colors
 SNIPR_grey <- "#757575"
 SNIPR_green <- '#22970F'
@@ -971,7 +962,6 @@ distance_matrix <- read.delim(paste0(data_folder,"jmi_mash_distance_matrix.phy.t
 #We use ape's neighbor-joining function
 tax_tree <- ape::nj(as.matrix(distance_matrix))
 
-
 #We load the phylogroup data
 JMI_phylogrouping <- read.delim(paste0(data_folder,"JMI_phylogroup.tsv"), header=FALSE)
 colnames(JMI_phylogrouping) <- c('strain','alleles','allele_pos_neg','sig_gene','phylogroup','originating_file')
@@ -1023,10 +1013,8 @@ truncation_data <- data.frame("node" = parent_node_index,
                               "images" = c(paste0(art_folder,"break2.png")),
                               "nodetext"=as.character(parent_node_index))
 
-
 #We indicate the colors that we use for MLSTs
 names(MLST_colors) <- sort(unique(JMI_MLST_data[["MLST_type"]]))
-
 
 #we add the truncation data
 tree_plot <- tree_plot %<+% truncation_data
@@ -1368,15 +1356,6 @@ openxlsx::write.xlsx(x = outdat,file = paste0(summary_stats,'figure5c.xlsx'))
 ###########
 #Figure 5D#
 ###########
-reformat_column <- function(col,matrix){
-  oldcol <- matrix[[col]]
-  newcol <- rep(NA,length(oldcol))
-  newcol[grep('lo',oldcol)] <- 'Lysis Zone'
-  newcol[oldcol=='0'] <- 'Negative'
-  newcol[as.numeric(oldcol)>0] <- 'Plaque'
-  return(newcol)
-}
-
 #we load the satlin matrix and rename the sequences to fit the format of the other files
 satlin_distance_matrix <- read.delim(paste0(data_folder,"satlin_distances.dist"),header = T)
 
@@ -1387,7 +1366,7 @@ satlin_treeplot <- ggtree(phytools::midpoint.root(satlin_tree))
 order_of_leaves_in_tree <- as.vector(na.omit(satlin_treeplot[["data"]][["label"]][order(satlin_treeplot[["data"]][["y"]])]))
 
 #We load the MLST data for the satlin panel
-MLST_summary <- as.data.frame(read_excel(paste0(data_folder,"JMI_MLST_summary.xlsx")))
+MLST_summary <- as.data.frame(read_excel(paste0(data_folder,"satlin_MLST_summary.xlsx")))
 rownames(MLST_summary) <- MLST_summary[,"strain"]
 #we only show the ones we used in 
 MLST_summary[!MLST_summary[,"MLST"]%in%names(MLST_colors),"MLST"] <- 'Other'
@@ -1423,12 +1402,10 @@ Satlin_001_n2 <- as.data.frame(read_excel(paste0(data_folder,"Satlin SNIPR001 n2
 #reformat run 1
 rownames(Satlin_001_n1) <- Satlin_001_n1[,"strain"]
 colnames(Satlin_001_n1) <- c('strain','SNIPR001_1')
-Satlin_001_n1[,"SNIPR001_1"] <- reformat_column(matrix = Satlin_001_n1,col = "SNIPR001_1")
 
 #and run2
 rownames(Satlin_001_n2) <- Satlin_001_n2[,"strain"]
 colnames(Satlin_001_n2) <- c('strain','SNIPR001_2')
-Satlin_001_n2[,"SNIPR001_2"] <- reformat_column(matrix = Satlin_001_n2,col = "SNIPR001_2")
 
 
 all_data <- cbind(Satlin_individual_n1_reformat,Satlin_individual_n2_reformat,'SNIPR001_1'=Satlin_001_n1[,"SNIPR001_1"],'SNIPR001_2'=Satlin_001_n2[,"SNIPR001_2"])
