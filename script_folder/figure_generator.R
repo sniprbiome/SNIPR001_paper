@@ -30,11 +30,11 @@ library(dplyr)
 
 
 #defines the folder where we would like our outputs, the folder where we have our data, the folder where we have relevant scripts, and the folder in which we have relevant graphical elements
-fig_folder <- "your_directory_here/figures/"
-data_folder <- "your_directory_here/data/"
-art_folder <- "your_directory_here/art_assets/"
-script_folder <- "your_directory_here/script/"
-summary_stats_folder <- "your_directory_here/summary_stats/"
+#fig_folder <- "your_directory_here/figures/"
+#data_folder <- "your_directory_here/data/"
+#art_folder <- "your_directory_here/art_assets/"
+#script_folder <- "your_directory_here/script/"
+#summary_stats_folder <- "your_directory_here/summary_stats/"
 
 
 #we define some redcurrant colors
@@ -235,7 +235,6 @@ plot_info_receptor[["receptor"]] <- factor(plot_info_receptor[["receptor"]],leve
 
 
 plot_info_receptor[plot_info_receptor[["phage"]]%in%c("α51","α46","α48","α31","α33"),]
-write.table(plot_info_receptor,file = 'phage_receptor_trial_info.tsv',row.names = F,quote = F,col.names = T)
 
 #and we plot the receptor info
 receptor_plot <- ggplot(plot_info_receptor,mapping = aes(x=phage,y=receptor,fill=presence))+geom_tile()+custom_theme+scale_fill_manual('Phage receptor',values = c('Yes'="#000000","No"='#ffffff','Not determined'="#a1a1a1"))
@@ -300,12 +299,12 @@ openxlsx::write.xlsx(outmat,paste0(summary_stats_folder,"figure2a_genome_length.
 #we output the MLST summary stats
 outmat <- as.data.frame(table(SNIPR_MLST[["MLST_type"]]))
 colnames(outmat) <- c('MLST','Frequency')
-openxlsx::write.xlsx(outmat,paste0(outmat,"figure2a_MLST_summary.xlsx"))
+openxlsx::write.xlsx(outmat,paste0(summary_stats_folder,"figure2a_MLST_summary.xlsx"))
 
 #and we output summary stats for the receptors
 outmat <- data.frame(table(plot_info_receptor[,c("receptor","presence")]))
 colnames(outmat) <- c('Receptor','Identification','frequency')
-openxlsx::write.xlsx(outmat,paste0(outmat,"figure2a_receptor_summary.xlsx"))
+openxlsx::write.xlsx(outmat,paste0(summary_stats_folder,"figure2a_receptor_summary.xlsx"))
 
 ###########
 #Figure 3A#
@@ -1013,6 +1012,7 @@ truncation_data <- data.frame("node" = parent_node_index,
                               "images" = c(paste0(art_folder,"break2.png")),
                               "nodetext"=as.character(parent_node_index))
 
+
 #We indicate the colors that we use for MLSTs
 names(MLST_colors) <- sort(unique(JMI_MLST_data[["MLST_type"]]))
 
@@ -1350,12 +1350,13 @@ ggsave(p,filename = paste0(fig_folder,'Figure 5C.png'),width = 3.5,height=4)
 
 
 outdat <- plotdat[,c("AMR_name","n","n_type")]
-openxlsx::write.xlsx(x = outdat,file = paste0(summary_stats,'figure5c.xlsx'))
+openxlsx::write.xlsx(x = outdat,file = paste0(summary_stats_folder,'figure5c.xlsx'))
 
 
 ###########
 #Figure 5D#
 ###########
+
 #we load the satlin matrix and rename the sequences to fit the format of the other files
 satlin_distance_matrix <- read.delim(paste0(data_folder,"satlin_distances.dist"),header = T)
 
@@ -1367,6 +1368,7 @@ order_of_leaves_in_tree <- as.vector(na.omit(satlin_treeplot[["data"]][["label"]
 
 #We load the MLST data for the satlin panel
 MLST_summary <- as.data.frame(read_excel(paste0(data_folder,"satlin_MLST_summary.xlsx")))
+
 rownames(MLST_summary) <- MLST_summary[,"strain"]
 #we only show the ones we used in 
 MLST_summary[!MLST_summary[,"MLST"]%in%names(MLST_colors),"MLST"] <- 'Other'
@@ -1406,7 +1408,6 @@ colnames(Satlin_001_n1) <- c('strain','SNIPR001_1')
 #and run2
 rownames(Satlin_001_n2) <- Satlin_001_n2[,"strain"]
 colnames(Satlin_001_n2) <- c('strain','SNIPR001_2')
-
 
 all_data <- cbind(Satlin_individual_n1_reformat,Satlin_individual_n2_reformat,'SNIPR001_1'=Satlin_001_n1[,"SNIPR001_1"],'SNIPR001_2'=Satlin_001_n2[,"SNIPR001_2"])
 
@@ -3695,5 +3696,5 @@ for(row in rownames(unique_dat)){
                         'n'=length(measures)))
 }
 
-openxlsx::write.xlsx(outdat,file = paste0(summary_stats,'Supplementary figure 19.xlsx'))
+openxlsx::write.xlsx(outdat,file = paste0(summary_stats_folder,'Supplementary figure 19.xlsx'))
 
