@@ -1388,10 +1388,10 @@ satlin_phylogroups <- as.data.frame(read_excel(paste0(data_folder,"satlin_phylog
 rownames(satlin_phylogroups) <- satlin_phylogroups[,"strain"]
 
 #we load the bacteremia data
-bacteriemia_data <- as.data.frame(read.delim(paste0(data_folder,"bacteremia.tsv"),header = F))
+bacteremia_data <- as.data.frame(read.delim(paste0(data_folder,"bacteremia.tsv"),header = F))
 #we set the column names and row names as strains
-colnames(bacteriemia_data) <- c('Strain','Bacteremia')
-rownames(bacteriemia_data) <- bacteriemia_data[["Strain"]]
+colnames(bacteremia_data) <- c('Strain','bacteremia')
+rownames(bacteremia_data) <- bacteremia_data[["Strain"]]
 
 #We get the plaquing results from the individual plaquing trials
 Satlin_individual_n1_reformat <- as.data.frame(read_excel(paste0(data_folder,"Satlin individual n1 trimmed.xlsx")))
@@ -1473,12 +1473,12 @@ MLST_data <- data.frame('strain'=factor(rownames(MLST_summary[satlin_leaf_order,
 phylogroup_data <- data.frame('strain'=factor(satlin_phylogroups[satlin_leaf_order,"strain"],levels = satlin_leaf_order),'color_var'=satlin_phylogroups[satlin_leaf_order,"phylogroup"],"type"=rep('Phylogroup',length(satlin_leaf_order)))
 
 #we factor the strain column in order to ensure the correct ordering
-bacteriemia_data[,"Strain"] <- factor(bacteriemia_data[,"Strain"],levels = satlin_leaf_order)
-bacteriemia_data <- cbind(bacteriemia_data,'type'=rep('Bacteriemia',nrow(bacteriemia_data)))
-colnames(bacteriemia_data) <- c('strain','color_var','type')
+bacteremia_data[,"Strain"] <- factor(bacteremia_data[,"Strain"],levels = satlin_leaf_order)
+bacteremia_data <- cbind(bacteremia_data,'type'=rep('bacteremia',nrow(bacteremia_data)))
+colnames(bacteremia_data) <- c('strain','color_var','type')
 
 #we combine the plotdata
-plotdat <- rbind(bacteriemia_data,MLST_data,phylogroup_data)
+plotdat <- rbind(bacteremia_data,MLST_data,phylogroup_data)
 plotdat <- plotdat[!is.na(plotdat[["strain"]]),]
 
 #we create the heatmap of the metadata
@@ -1520,26 +1520,26 @@ heatmap <- heatmap + facet_grid(cols = vars(type),space = 'free',scales = 'free'
 heatmap <- heatmap + custom_theme+theme(axis.ticks.y=element_blank(),axis.text.y=element_blank(),axis.title.x=element_blank(),strip.text.x = element_blank(),strip.background.x = element_blank(),panel.grid = element_blank())+ylab(bquote('Bacterial panel ('~italic("n")~' = '~.(as.character(length(unique(plotdat[["strain"]]))))~')'))
 heatmap <- heatmap + scale_y_discrete(position='right')
 
-#we want to add a bacteriemia part's legend, so we'll create a quick plot just for the legend
-bacteriemia_legend <- get_legend(ggplot(data = bacteriemia_data,mapping = aes(y=strain,x=type,fill=color_var))+geom_tile()+scale_fill_manual('Bacteriemia',values = c('No'="#ffffff",'Yes'="#a10e0e"))+custom_theme)
+#we want to add a bacteremia part's legend, so we'll create a quick plot just for the legend
+bacteremia_legend <- get_legend(ggplot(data = bacteremia_data,mapping = aes(y=strain,x=type,fill=color_var))+geom_tile()+scale_fill_manual('bacteremia',values = c('No'="#ffffff",'Yes'="#a10e0e"))+custom_theme)
 
-#we get the legends for the plots. The color scheme is the same as 5a, so we only need to transfer the bacteriemia legend
+#we get the legends for the plots. The color scheme is the same as 5a, so we only need to transfer the bacteremia legend
 lr_margin=-2
 plot_without_legends <- cowplot::plot_grid(plotlist = list(satlin_tree_figure,NULL,
                                                            metadata_plot+theme(plot.margin = margin(0,0,0,0,unit = 'cm')),NULL,
                                                            heatmap+theme(axis.text.x=element_text(angle=50,hjust=1,vjust=1),legend.position = 'none',plot.margin = margin(l=lr_margin,r=lr_margin,0,0,'cm')))
                                            ,nrow=1,rel_widths=c(3,-0.3,6,-0.8,6),align = 'hv',axis = 'trbl')
 
-#we add the bacteriemia legend
-plot_with_legend <- cowplot::plot_grid(plotlist = list(plot_without_legends,bacteriemia_legend),ncol=2,rel_widths = c(5,1.7))
+#we add the bacteremia legend
+plot_with_legend <- cowplot::plot_grid(plotlist = list(plot_without_legends,bacteremia_legend),ncol=2,rel_widths = c(5,1.7))
 
 #and save the plot
 ggsave(plot_without_legends,filename = paste0(fig_folder,"Figure 5D.pdf"),width=5.8,height=4.43,units = 'cm',device = cairo_pdf)
 ggsave(plot_without_legends,filename = paste0(fig_folder,"Figure 5D.png"),width=5.8,height=4.43,units = 'cm')
 
 #we save the legend on it's own 
-ggsave(bacteriemia_legend,filename = paste0(fig_folder,"Figure 5D_bacteriemia_legend.pdf"),width=2,height=2,units = 'cm',device = cairo_pdf)
-ggsave(bacteriemia_legend,filename = paste0(fig_folder,"Figure 5D_bacteriemia_legend.png"),width=2,height=2,units = 'cm')
+ggsave(bacteremia_legend,filename = paste0(fig_folder,"Figure 5D_bacteremia_legend.pdf"),width=2,height=2,units = 'cm',device = cairo_pdf)
+ggsave(bacteremia_legend,filename = paste0(fig_folder,"Figure 5D_bacteremia_legend.png"),width=2,height=2,units = 'cm')
 
 
 #we start generating the summary data
@@ -1557,11 +1557,11 @@ plaquing_summary <- plaquing_data_molten %>% group_by(phage,replicate,plaquing_r
 openxlsx::write.xlsx(plaquing_summary,file = paste0(summary_stats_folder,'figure_5D_plaquing_summary.xlsx'))
 
 
-#next we'll report frequency of bacteriemia
-bacteriemia_summary <- as.data.frame(table(bacteriemia_data[["color_var"]]))
-colnames(bacteriemia_data) <- c('bacteriemia found','Frequency')
+#next we'll report frequency of bacteremia
+bacteremia_summary <- as.data.frame(table(bacteremia_data[["color_var"]]))
+colnames(bacteremia_data) <- c('bacteremia found','Frequency')
 
-openxlsx::write.xlsx(bacteriemia_data,file = paste0(summary_stats_folder,'figure_5D_bacteriemia_summary.xlsx'))
+openxlsx::write.xlsx(bacteremia_data,file = paste0(summary_stats_folder,'figure_5D_bacteremia_summary.xlsx'))
 
 
 #next we report MLSTs
